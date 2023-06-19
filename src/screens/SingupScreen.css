@@ -33,20 +33,19 @@
     border: none;
     cursor: pointer;
     margin-top: 20px;
-
 }
 
 
 .signupScreen > form > h1{
     text-align: left;
     margin-bottom: 10px;
-
 }
 
 .signupScreen > form > h4{
     text-align: left;
     margin-top: 20px;
 }
+
 .signupScreen__gray{
     color: gray;
 }
